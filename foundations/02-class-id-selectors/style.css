@@ -1,0 +1,18 @@
+*{font-family: 'Verdana', 'DejaVu Sans', Sans-serif;}
+p{
+    background-color: rgb(250, 160, 160);
+}
+
+#numbertwo{
+    color: blue;
+    font-size: 36px;
+}
+
+.numberthree{
+    font-size: 24px;
+}
+#four{
+    background-color: rgb(135, 243, 135);
+    font-size: 24px;
+    font-weight: bold;
+}
